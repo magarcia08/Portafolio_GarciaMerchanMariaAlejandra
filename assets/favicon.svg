@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#6c63ff"/>
+      <stop offset="100%" stop-color="#00d9b8"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#e8e6ff"/>
+    </linearGradient>
+  </defs>
+  <!-- Fondo redondeado -->
+  <rect width="64" height="64" rx="14" fill="#0f0f1a"/>
+  <!-- Borde con gradiente -->
+  <rect width="64" height="64" rx="14" fill="none" stroke="url(#bg)" stroke-width="2"/>
+  <!-- Texto MG centrado -->
+  <text
+    x="32" y="42"
+    font-family="Poppins, Inter, sans-serif"
+    font-size="26"
+    font-weight="800"
+    text-anchor="middle"
+    fill="url(#bg)"
+    letter-spacing="-1"
+  >MG</text>
+</svg>
