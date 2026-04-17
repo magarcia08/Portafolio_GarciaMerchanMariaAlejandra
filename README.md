@@ -2,9 +2,11 @@
 
 > Portafolio web profesional de una desarrolladora Full Stack Junior con enfoque en Java, JavaScript, Spring Boot, Python, Node.js y automatización con IA. Construido con HTML5, CSS3 puro y JavaScript vanilla — sin frameworks, sin librerías de UI, listo para deploy.
 
-[![Deploy en Netlify](https://img.shields.io/badge/Deploy-Netlify-00d9b8?style=flat-square&logo=netlify)](https://app.netlify.com)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=flat-square&logo=vercel)](https://portafolio-garcia-merchan-maria-ale.vercel.app/)
 [![Hecho con](https://img.shields.io/badge/Hecho%20con-HTML%20%7C%20CSS%20%7C%20JS-6c63ff?style=flat-square)](#)
 [![Licencia](https://img.shields.io/badge/Licencia-MIT-f7c948?style=flat-square)](#)
+
+🔗 **[https://portafolio-garcia-merchan-maria-ale.vercel.app/](https://portafolio-garcia-merchan-maria-ale.vercel.app/)**
 
 ---
 
@@ -92,19 +94,23 @@ Portafolio_GarciaMerchanMaria/
 
 ## ⚡ Deploy
 
-### Netlify (recomendado)
+### Vercel (producción actual)
 
-1. Arrastra la carpeta del proyecto a [app.netlify.com/drop](https://app.netlify.com/drop)
-2. ¡Listo! No requiere build step.
-
-### GitHub Pages
+🔗 [https://portafolio-garcia-merchan-maria-ale.vercel.app/](https://portafolio-garcia-merchan-maria-ale.vercel.app/)
 
 ```bash
-git add .
-git commit -m "deploy portafolio"
-git push origin main
+# Instalar Vercel CLI (opcional)
+npm i -g vercel
+
+# Deploy desde la raíz del proyecto
+vercel
 ```
-Luego en el repositorio: **Settings → Pages → Branch: main → / (root) → Save**
+
+O directamente desde [vercel.com](https://vercel.com): importar el repositorio de GitHub y hacer deploy con un clic — no requiere configuración adicional.
+
+### GitHub Pages (alternativa)
+
+En el repositorio: **Settings → Pages → Branch: main → / (root) → Save**
 
 ---
 
@@ -127,7 +133,7 @@ open index.html
 
 - [ ] Añadir `assets/cv/MariaGarcia_CV.pdf`
 - [ ] Conectar formulario de contacto a un servicio real (Formspree, EmailJS, etc.)
-- [ ] Configurar dominio personalizado en Netlify
+- [ ] Configurar dominio personalizado en Vercel
 
 ---
 
