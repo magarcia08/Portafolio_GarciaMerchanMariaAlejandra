@@ -129,14 +129,6 @@ open index.html
 
 ---
 
-## 📌 Pendiente
-
-- [ ] Añadir `assets/cv/MariaGarcia_CV.pdf`
-- [ ] Conectar formulario de contacto a un servicio real (Formspree, EmailJS, etc.)
-- [ ] Configurar dominio personalizado en Vercel
-
----
-
 ## 👩‍💻 Autora
 
 **María Alejandra García Merchán**
