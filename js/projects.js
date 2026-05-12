@@ -27,7 +27,7 @@ const PROJECTS = [
       'Autenticación con roles Admin/Empleado y cifrado bcrypt',
       '5 módulos CRUD: empleados, departamentos, asistencias, nómina, usuarios',
     ],
-    github: null,
+    github: 'https://github.com/magarcia08/TalentX-proyecto-2025.git',
     demo: null,
   },
   {
@@ -119,7 +119,7 @@ const PROJECTS = [
       'Módulo de transferencias de jugadores y generación de estadísticas',
       'Interfaz CLI interactiva con menús anidados y validaciones completas',
     ],
-    github: null,
+    github: 'https://github.com/magarcia08/maria-garcia-j3-torneos.git',
     demo: null,
   },
   {
