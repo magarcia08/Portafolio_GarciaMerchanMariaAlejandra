@@ -49,7 +49,7 @@ const PROJECTS = [
       'API RESTful para CRUD de libros, usuarios y préstamos',
       'Validaciones robustas de disponibilidad y fechas de devolución',
     ],
-    github: null,
+    github: 'https://github.com/magarcia08/BiblioTrack-proyecto-2025-.git',
     demo: null,
   },
   {
@@ -98,7 +98,7 @@ const PROJECTS = [
       'Filtros por categoría y búsqueda en tiempo real de productos',
     ],
     github: 'https://github.com/magarcia08/examen-JavaScript_C4',
-    demo: null,
+    demo: 'https://proyecto-fakestoree.vercel.app/',
   },
   {
     id: 'torneo',
